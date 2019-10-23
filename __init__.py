@@ -1,4 +1,4 @@
-from .rndstatus import RandomStatus
+from .createchannel import createchannel
 
 def setup(bot):
-    bot.add_cog(RandomStatus(bot))
+    bot.add_cog(createchannel(bot))
