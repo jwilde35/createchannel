@@ -3,5 +3,5 @@
     "DESCRIPTION" : "creates channel as a test, probably best not to use this",
     "SHORT" : "creates channel",
     "TAGS" : ["test"],
-    "NAME" : "CreateChannel"
+    "NAME" : "createchannel"
 }
