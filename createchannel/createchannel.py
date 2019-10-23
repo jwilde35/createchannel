@@ -14,7 +14,7 @@ class CreateChannel(BaseCog):
     async def create(self, ctx):
         pass
 
-    @createchannel.command(name="channel", pass_context=True, no_pm=True)
+    @CreateChannel.command(name="channel", pass_context=True, no_pm=True)
     async def _channel(self, ctx, name : str):
         guild = ctx.message.guild
         await guild.create_text_channel(name)
