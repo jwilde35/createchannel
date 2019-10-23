@@ -1,7 +1,7 @@
 {
-    "AUTHOR" : "Twentysix",
-    "DESCRIPTION" : "Cycles custom statuses every X seconds.\nLimited to owner.\nSee [prefix]help RandomStatus for details.",
-    "SHORT" : "Cycles custom game statuses",
-    "TAGS" : ["game status", "loop"],
-    "NAME" : "RandomStatus"
+    "AUTHOR" : "jwilde35",
+    "DESCRIPTION" : "creates channel as a test, probably best not to use this",
+    "SHORT" : "creates channel",
+    "TAGS" : ["test"],
+    "NAME" : "CreateChannel"
 }
