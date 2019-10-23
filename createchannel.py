@@ -6,7 +6,7 @@ import time
 
 BaseCog = getattr(commands, "Cog", object)
 
-class createchannel(BaseCog):
+class CreateChannel(BaseCog):
     def __init__(self, bot):
         self.bot = bot
     @commands.group(pass_context=True)
